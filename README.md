@@ -1,2 +1,2 @@
 # hello-world
-My first Githum repository. The beginning of a great adventure.
+My first Github repository. The beginning of a great adventure.
